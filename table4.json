@@ -1,0 +1,95 @@
+[
+    { "0": "Ibuprofen", "1": "200mg", "2": "Tablet", "3": "tablet" },
+    { "0": "Ibuprofen", "1": "100mg/5ml", "2": "syrup", "3": "Bottle" },
+    { "0": "Paracetamol", "1": "500mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Diclofenac",
+        "1": "50mg",
+        "2": "suppository",
+        "3": "s\nuppositor\ny"
+    },
+    {
+        "0": "Paracetamol",
+        "1": "120mg",
+        "2": "suppository",
+        "3": "s\nuppositor\ny"
+    },
+    { "0": "Paracetamol", "1": "100ml", "2": "bottle", "3": "bottle" },
+    {
+        "0": "Paracetamol infusion (IV)",
+        "1": "1g",
+        "2": "Infusion",
+        "3": "Infusion"
+    },
+    {
+        "0": "Aceclofenac + Paracetamol",
+        "1": "100mg/500mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    { "0": "Indomethacin", "1": "25mg", "2": "Capsules", "3": "Capsules" },
+    { "0": "Mefenamic acid", "1": "250mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Morphine Sulphate", "1": "30mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Morphine sulphate", "1": "10mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Morphine Sulphate",
+        "1": "10mg/ml",
+        "2": "Injection",
+        "3": "Ampoule"
+    },
+    { "0": "Morphine Sulphate", "1": "5g", "2": "Powder", "3": "Bottle" },
+    { "0": "Morphine Sulphate", "1": "5mg/5ml", "2": "syrup", "3": "Bottle" },
+    { "0": "Pethidine", "1": "100mg/2ml", "2": "Injection", "3": "Ampoule" },
+    { "0": "Pethidine", "1": "50mg/ml", "2": "Injection", "3": "Ampoule" },
+    { "0": "Tramadol", "1": "50mg", "2": "Tablet", "3": "tablet" },
+    { "0": "", "1": "50mg/ml,", "2": "Injection", "3": "Vial" },
+    { "0": "Fentanyl", "1": "12.5mcg", "2": "Transdermal", "3": "Patch" },
+    { "0": "Fentanyl", "1": "25mcg", "2": "Transdermal", "3": "Patch" },
+    { "0": "Fentanyl", "1": "50mcg", "2": "Transdermal", "3": "Patch" },
+    { "0": "Fentanyl", "1": "75mcg", "2": "Transdermal", "3": "Patch" },
+    { "0": "Fentanyl", "1": "50mcg/5ml", "2": "Injection", "3": "" },
+    {
+        "0": "Paracetamol + Codeine",
+        "1": "500mg/30mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "Ibuprofen + Paracetamol",
+        "1": "400mg/325mg",
+        "2": "tablets",
+        "3": "Tablet"
+    },
+    {
+        "0": "Mefenamic acid",
+        "1": "50mg/5ml",
+        "2": "Suspension",
+        "3": "Bottle"
+    },
+    {
+        "0": "Ibuprofen + Paracetamol",
+        "1": "100/125mg",
+        "2": "Suspension",
+        "3": "Bottle"
+    },
+    { "0": "Meloxicam", "1": "15mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Piroxicam", "1": "20mg", "2": "Capsules", "3": "Capsule" },
+    { "0": "2.2 Anti Gout/Rheumatoid", "1": "", "2": "", "3": "" },
+    { "0": "Allopurinol", "1": "100mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Colchicine", "1": "0.5mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Febuxostat", "1": "40mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Orencia 250ml (Abatacept)",
+        "1": "250ml",
+        "2": "Injection",
+        "3": "Injection"
+    },
+    { "0": "", "1": "", "2": "", "3": "" },
+    {
+        "0": "3.0 DRUGS ACTING ON THE GASTROINTESTINAL SYSTEM",
+        "1": "",
+        "2": "",
+        "3": ""
+    },
+    { "0": "3.1 Anti-Diarrhoeal", "1": "", "2": "", "3": "" }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "0": "Product Description",
+        "1": "",
+        "2": "Dosage \nForm",
+        "3": "Basic Unit"
+    },
+    { "0": "1.0 ANTIBIOTICS", "1": "", "2": "", "3": "" },
+    { "0": "1.1 Penicillins", "1": "", "2": "", "3": "" },
+    {
+        "0": "Ampicillin (sodium salt) 100ml",
+        "1": "125mg/5ml",
+        "2": "Suspension",
+        "3": "Bottle"
+    },
+    {
+        "0": "Ampicillin (sodium salt)",
+        "1": "250mg",
+        "2": "Capsule",
+        "3": "Each"
+    },
+    {
+        "0": "Ampicilin/cloxacillin",
+        "1": "125+125mg/5m\nl",
+        "2": "Suspension",
+        "3": "Bottle"
+    },
+    {
+        "0": "Ampicilin/cloxacillin",
+        "1": "250/250mg",
+        "2": "Capsule",
+        "3": "capsule"
+    },
+    {
+        "0": "Amoxycillin (trihydrate)",
+        "1": "250mg",
+        "2": "Capsule",
+        "3": "capsule"
+    },
+    {
+        "0": "Amoxycillin (trihydrate) 100ml",
+        "1": "125mg/5ml",
+        "2": "Suspension",
+        "3": "Bottle"
+    },
+    {
+        "0": "Amoxycillin(trihydrate) Combined with \nClavulanate",
+        "1": "500mg/125 mg",
+        "2": "Capsule",
+        "3": "capsule"
+    },
+    {
+        "0": "Amoxycillin(trihydrate) Combined with \nClavulanate",
+        "1": "228.5mg",
+        "2": "Suspension",
+        "3": "Bottle"
+    },
+    {
+        "0": "Amoxycillin(trihydrate) Combined with \nClavulanate",
+        "1": "458mg",
+        "2": "Suspension",
+        "3": "Bottle"
+    },
+    {
+        "0": "Amoxycillin + Clavulanic acid",
+        "1": "1g",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "Amoxycillin + Clavulanic acid",
+        "1": "375mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "Benzathine Benzylpenicillin(sodium)",
+        "1": "2.4 mega",
+        "2": "Injection",
+        "3": "Vial"
+    },
+    {
+        "0": "Benzyl Penicillin Sodium",
+        "1": "5mega",
+        "2": "Injection",
+        "3": "Vial"
+    },
+    {
+        "0": "Phenoxymethyl Penicillin (as potassium \nsalt) 100ml",
+        "1": "125mg/ml",
+        "2": "suspension",
+        "3": "Bottle"
+    },
+    {
+        "0": "Phenoxymethyl Penicillin (as potassium \nsalt)",
+        "1": "250mg",
+        "2": "tablet",
+        "3": "Tablet"
+    },
+    { "0": "Procaine Penicillin", "1": "3MU", "2": "injection", "3": "Vial" },
+    { "0": "Cloxacillin", "1": "250mg", "2": "capsule", "3": "capsule" },
+    {
+        "0": "Cloxacillin(sodium) 500mg",
+        "1": "500mg",
+        "2": "injection",
+        "3": "Vial"
+    },
+    { "0": "Cloxacillin", "1": "125mg/5ml", "2": "suspension", "3": "Bottle" },
+    { "0": "1.2 Cephalosporins", "1": "", "2": "", "3": "" },
+    { "0": "Cefotaxime Sodium", "1": "1g", "2": "injection", "3": "Vial" },
+    {
+        "0": "Ceftriaxone (sodium)",
+        "1": "250mg",
+        "2": "injection",
+        "3": "Vial"
+    },
+    { "0": "Ceftriaxone Sodium", "1": "1g", "2": "injection", "3": "Vial" },
+    {
+        "0": "Cetriaxone + Sulbactum",
+        "1": "3g + 1.5g",
+        "2": "injection",
+        "3": "Vial"
+    }
+]

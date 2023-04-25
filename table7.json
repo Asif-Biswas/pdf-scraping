@@ -1,0 +1,152 @@
+[
+    {
+        "0": "Insulin Aspart (Analogue)",
+        "1": "100IU",
+        "2": "Injection",
+        "3": "Vial"
+    },
+    {
+        "0": "Insulin Biphasic Aspart (Analogue)",
+        "1": "100IU",
+        "2": "Injection",
+        "3": "Pen/vial"
+    },
+    {
+        "0": "Insulin Determir (Analogue)",
+        "1": "100IU",
+        "2": "Injection",
+        "3": "Pen/vial"
+    },
+    { "0": "Glibenclamide", "1": "5mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Gliclazide/Metformin",
+        "1": "1mg/500mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    { "0": "Gliclazide", "1": "80mg", "2": "Tablet", "3": "tablet" },
+    { "0": "Glimepiride", "1": "2mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Glimepiride/Metformin",
+        "1": "80mg/500mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "Glimepiride/Metformin",
+        "1": "2mg/500mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    { "0": "Metformin B.P", "1": "500mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Metformin + Glibenclamide",
+        "1": "500mg + 5mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    { "0": "Pioglitazone", "1": "15mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Rosiglitazone", "1": "4mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Vildagliptin", "1": "50mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Vildagliptin + Metformin",
+        "1": "50 + 500mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "Vildagliptin + Metformin",
+        "1": "50 + 850mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "Vildagliptin + Metformin",
+        "1": "50 + 1000mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    { "0": "Sitagliptin", "1": "50mg", "2": "Tablet", "3": "Tablet" },
+    {
+        "0": "Sitagliptin + Metformin",
+        "1": "50mg +500mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "Sitagliptin + Metformin",
+        "1": "50mg +1000mg",
+        "2": "Tablet",
+        "3": "Tablet"
+    },
+    {
+        "0": "6.0 DRUGS USED IN BLOOD AND BLOOD DISORDERS",
+        "1": "",
+        "2": "",
+        "3": ""
+    },
+    { "0": "6.1 Anticoagulants", "1": "", "2": "", "3": "" },
+    {
+        "0": "Heparin Sodium, USP 5ml",
+        "1": "5000iu/ml",
+        "2": "Injection",
+        "3": "Vial"
+    },
+    { "0": "Warfarin Sodium,", "1": "5mg", "2": "Tablet", "3": "tablet" },
+    { "0": "Acetylsalicylic acid", "1": "75mg", "2": "Tablet", "3": "Tablets" },
+    {
+        "0": "Enoxaparin Sodium Syringe (Pre-Fill)",
+        "1": "40mg/0.4ml",
+        "2": "Injection",
+        "3": "Ampoule"
+    },
+    {
+        "0": "Enoxaparin Sodium Syringe (Pre-Fill)",
+        "1": "60mg/0.4ml",
+        "2": "Injection",
+        "3": "Ampoule"
+    },
+    {
+        "0": "Heparin Sodium in 5ml",
+        "1": "25000iu",
+        "2": "Injection",
+        "3": "Vial"
+    },
+    {
+        "0": "Erythropoietin, 0.5ml Prefilled Syringes",
+        "1": "2000iu",
+        "2": "Injection",
+        "3": "prefilled \nsyringe"
+    },
+    {
+        "0": "Iron Sucrose (venofer)",
+        "1": "100mg/5ml",
+        "2": "Injection",
+        "3": "Vial"
+    },
+    {
+        "0": "Anti-D Immunoglobulin",
+        "1": "150mcg",
+        "2": "Injection",
+        "3": "Vial"
+    },
+    { "0": "Dabigatran", "1": "150mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Tenecteplase", "1": "40mg", "2": "Injection", "3": "Injection" },
+    { "0": "Reteplase", "1": "18mg", "2": "Injection", "3": "Injection" },
+    {
+        "0": "Alteplase",
+        "1": "2mg (1.16 \nmillion units)",
+        "2": "vial",
+        "3": "vial"
+    },
+    { "0": "Streptokinase", "1": "", "2": "vial", "3": "vial" },
+    {
+        "0": "Tranexamic acid",
+        "1": "100mg/ml",
+        "2": "injection",
+        "3": "Vial 5ml"
+    },
+    { "0": "Tranexamic acid", "1": "250mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Etamsylate", "1": "500mg", "2": "Tablet", "3": "Tablet" },
+    { "0": "Etamsylate", "1": "250mg", "2": "Injection", "3": "Injection" }
+]
